@@ -1,0 +1,60 @@
+body{
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-image: url(../img/fundo.png);
+    text-align: center;
+    background-attachment: fixed;
+    font-family: 'Montserrat';
+    src: url(../fontes/montserrat/Montserrat-Regular.ttf);
+}
+
+ul{
+    padding-left: 60px;
+}
+li{
+    padding-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#Pnome{
+    color: black;
+    font-size: 70px;
+    font-family: 'adelia';
+    src: url(../fontes/adelia/adelia.otf);
+}
+
+#Pnome2{
+    color: black;
+    font-size: 40px;
+    font-family: 'adelia';
+    src: url(../fontes/adelia/adelia.otf);
+}
+#imgG{
+    max-width:300px;
+    width: auto;
+    height: auto;
+}
+
+#imgG2{
+    max-width:300px;
+    width: auto;
+    height: auto;
+    padding: 10px;
+}
+
+#Pnome3{
+    font-size: 25px;
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+    padding-top: 1.3rem;
+    width: 40px;
+    height: 40px;
+    
+}
